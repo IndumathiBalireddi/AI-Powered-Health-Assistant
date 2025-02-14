@@ -10,9 +10,7 @@ The **AI Healthcare Assistant** is a chatbot designed to provide medical informa
 - **🩺 Symptom Checker with Confidence Score** *(Upcoming)*
 - **🔍 Follow-up Questions for Better Diagnosis** *(Upcoming)*
 - **👤 Personalized Health Advice Based on User Profile** *(Upcoming)*
-- **📄 Medical Article Summarization** *(Upcoming)*
-- **🎤 Speech-to-Text and Text-to-Speech Support** *(Upcoming)*
-- **🌍 Multilingual Response Support** *(Upcoming)*
+
 
 ---
 
